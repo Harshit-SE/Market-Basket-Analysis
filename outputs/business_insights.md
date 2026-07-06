@@ -1,0 +1,7 @@
+# Business Recommendations
+
+- Customers who buy **citrus fruit, other vegetables** buy **root vegetables** 36% of the time (lift 3.30x baseline) -> bundle or shelve these together / recommend root vegetables at checkout when citrus fruit, other vegetables is in the cart.
+- Customers who buy **other vegetables, tropical fruit** buy **root vegetables** 34% of the time (lift 3.14x baseline) -> bundle or shelve these together / recommend root vegetables at checkout when other vegetables, tropical fruit is in the cart.
+- Customers who buy **beef** buy **root vegetables** 33% of the time (lift 3.04x baseline) -> bundle or shelve these together / recommend root vegetables at checkout when beef is in the cart.
+- Customers who buy **citrus fruit, root vegetables** buy **other vegetables** 59% of the time (lift 3.03x baseline) -> bundle or shelve these together / recommend other vegetables at checkout when citrus fruit, root vegetables is in the cart.
+- Customers who buy **root vegetables, tropical fruit** buy **other vegetables** 58% of the time (lift 3.02x baseline) -> bundle or shelve these together / recommend other vegetables at checkout when root vegetables, tropical fruit is in the cart.
